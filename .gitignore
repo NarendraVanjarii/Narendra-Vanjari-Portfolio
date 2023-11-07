@@ -1,1 +1,4 @@
-setting.json
+.next/
+node_modules/
+*:Zone.Identifier
+.eslintrc.json
