@@ -75,14 +75,14 @@ export const projectsData = [
   //   tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
   //   imageUrl: rmtdevImg,
   // },
-  // {
-  //   title: "Word Analytics",
-  //   description:
-  //     "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-  //   tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-  //   imageUrl: wordanalyticsImg,
-  // },
-  {}
+  {
+    title: "Word Cruise Game",
+    description:
+      "A public gaming website for Indian Native languages.",
+    tags: ["React", "Node.js", "SQL", "Bootstrap", "Framer"],
+    imageUrl: wordanalyticsImg,
+  },
+
 ] as const;
 
 export const skillsData = [
